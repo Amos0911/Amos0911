@@ -1,0 +1,105 @@
+img{
+    width: 224;
+    height: 100;
+    margin-top: 140px;
+    margin-left: 830px;
+}
+.titolo{
+    color: #01dd01;
+    margin-left: 740px;
+    font-size: 30px
+
+}
+.contenitore{
+
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgba(18,18,18,0.80);
+    border-radius: 25px;
+    padding: 10px
+
+}
+.main{
+
+    background: #01dd01;
+    border: 10px solid #01dd01 ;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.bottone{
+    margin-left: 290px;
+    display: inline-block;
+}
+.bottone1{
+    margin-left: 1px;
+    display: inline-block;
+
+}
+.bottone2{
+    margin-left: 1px;
+    display: inline-block;
+}
+.sottotitolo{
+    display: inline-block;
+    margin-left: 500px;
+    width: 38%;
+}
+.titolo1{
+    margin-left: 1px;
+    display: inline-block;
+    color: white;
+}
+.text1{
+    margin-left: 500px;
+    color: white;
+    font-size: 20px;
+
+}
+#progress {
+ width: 1100px;
+ position: relative;
+ padding: 3px;
+ border-radius: 5px;
+}
+
+#percent {
+ position: absolute;
+ left: 50%;
+}
+
+#bar {
+ height: 30px;
+ background-color: orange;
+ width: 30%;
+ border-radius: 5px;
+}
+.text2{
+    margin-left: 1px;
+    color: white;
+    font-size: 20px;
+}
+#progress1 {
+ width: 1700px;
+ position: relative;
+ padding: 3px;
+ border-radius: 5px;
+}
+
+#percent1 {
+ position: absolute;
+ left: 50%;
+}
+
+#bar1 {
+ height: 30px;
+ background-color: #01dd01;
+ width: 30%;
+ border-radius: 5px;
+}
+
+
+
+
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+}
